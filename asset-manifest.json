@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/irda-questions/static/css/main.4ebc21a8.chunk.css",
+    "main.js": "/irda-questions/static/js/main.fdbdc00f.chunk.js",
+    "main.js.map": "/irda-questions/static/js/main.fdbdc00f.chunk.js.map",
+    "runtime~main.js": "/irda-questions/static/js/runtime~main.5f586ed9.js",
+    "runtime~main.js.map": "/irda-questions/static/js/runtime~main.5f586ed9.js.map",
+    "static/js/2.9d955685.chunk.js": "/irda-questions/static/js/2.9d955685.chunk.js",
+    "static/js/2.9d955685.chunk.js.map": "/irda-questions/static/js/2.9d955685.chunk.js.map",
+    "index.html": "/irda-questions/index.html",
+    "precache-manifest.cc64c2a4666404efee8d0cec32c2a511.js": "/irda-questions/precache-manifest.cc64c2a4666404efee8d0cec32c2a511.js",
+    "service-worker.js": "/irda-questions/service-worker.js",
+    "static/css/main.4ebc21a8.chunk.css.map": "/irda-questions/static/css/main.4ebc21a8.chunk.css.map"
+  }
+}
