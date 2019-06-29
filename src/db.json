@@ -1,0 +1,1762 @@
+[
+  {
+    "text": "Underwriting is the process of ___________.",
+    "choices": [
+      "I. Marketing insurance products  ",
+      "II. Collecting premiums from customers  ",
+      "III. Risk selection and risk pricing  ",
+      "IV. Selling various insurance products "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "The principle of utmost good faith in underwriting is required to be followed by ___________.",
+    "choices": [
+      "I. The insurer  ",
+      "II. The insured  ",
+      "III. Both the insurer and the insured  ",
+      "IV. The medical examiners "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Insurable interest refers to ____________.",
+    "choices": [
+      "I. Financial interest of the person in the asset to be insured  ",
+      "II. The asset which is already insured  ",
+      "III. Each insurer’s share of loss when more than one company covers the same loss  ",
+      "IV. The amount of the loss that can be recovered from the insurer "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the following statements about medical underwriting is incorrect?",
+    "choices": [
+      "I. It involves high cost in collecting and assessing medical reports.  ",
+      "II. Current health status and age are the key factors in medical underwriting for health insurance.  ",
+      "III. Proposers have to undergo medical and pathological investigations to assess their health risk     profile.  ",
+      "IV.  Percentage assessment is made on each component of the risk. "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "1)    In a group health insurance, any of the individual constituting the group could anti-select against theinsurer.          2)      Group health insurance provides coverage only to employer-employee groups. I.  ",
+    "choices": [
+      "I.            Statement 1 is true and statement 2 is false   ",
+      "II.           Statement 2 is true and statement 1 is false ",
+      "III.         Statement 1 and statement 2 are true  ",
+      "IV.         Statement 1 and statement 2 are false.      "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which of the following factor does not affect the morbidity of an individual?",
+    "choices": [
+      "I. Gender  ",
+      "II. Spouse job  ",
+      "III. Habits  ",
+      "IV. Residence location "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "According to the principle of indemnity, the insured is paid for __________.",
+    "choices": [
+      "I. The actual losses to the extent of the sum insured  ",
+      "II. The sum insured irrespective of the amount actually spent  ",
+      "III. A fixed amount agreed between both the parties  ",
+      "IV. The actual losses irrespective of the sum assured "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "The  first  and  the  primary  source  of  information  about  an  applicant,  for  the  underwriter  is  his________________.  ",
+    "choices": [
+      "I. Age proof documents  ",
+      "II. Financial documents  ",
+      "III. Previous medical records  ",
+      "IV. Proposal form "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "The underwriting process is completed when ___________________.",
+    "choices": [
+      "I. All  the  critical  information  related  to  the  health and  personal  details  of  the  proposer  are  collected through the proposal form  ",
+      "II. All the medical examinations and tests of the proposer are completed  ",
+      "III. The received information is carefully assessed and classified into appropriate risk categories ",
+      "IV. The policy is issued to the proposer after risk selection and pricing. "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the following statements about the numerical rating method is incorrect?",
+    "choices": [
+      "I. Numerical rating method provides greater speed in the handling of a large business with the help of trained personnel. 228  ",
+      "II. Analysis of difficult or doubtful cases is not possible on the basis of numerical points without medical referees or experts.  ",
+      "III. This method can be used by persons without any specific knowledge of medical science.  ",
+      "IV. It ensures consistency between the decisions of different underwriters. "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Who among the following is not a stakeholder in insurance claim process?",
+    "choices": [
+      "I. Insurance company shareholders  ",
+      "II. Human Resource Department  ",
+      "III. Regulator  ",
+      "IV. TPA "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the following document is maintained at the hospital detailing all treatment done  to an in-patient?  ",
+    "choices": [
+      "I. Investigation report  ",
+      "II. Settlement sheet  ",
+      "III. Case paper  ",
+      "IV. Hospital registration certificate "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "The amount of provision made for all claims in the books of the insurer based on the status of  the claimsis known as ________.  ",
+    "choices": [
+      "I. Pooling  ",
+      "II. Provisioning  ",
+      "III. Reserving  ",
+      "IV. Investing "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the following documents are not required to be submitted for Permanent Total Disability claim?",
+    "choices": [
+      "I. Duly completed Personal Accident claim form signed by the claimant.  ",
+      "II. Attested copy of First Information Report if applicable.  ",
+      "III. Permanent disability certificate from a civil surgeon or any equivalent competent doctors certifying the disability of the insured.  ",
+      "IV. Fitness certificate from the treating doctor certifying that the insured is fit to perform his normal "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "________________  are  paid  upfront  by  Assistance  Company  and  later  claimed  from  insurancecompany.  ",
+    "choices": [
+      "I. Bail bond cases  ",
+      "II. Personal accident claims  ",
+      "III. Overseas travel insurance claims  ",
+      "IV. Untenable claims "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Who among the following is considered as primary stakeholder in insurance claim process?",
+    "choices": [
+      "I. Customers  ",
+      "II. Owners  ",
+      "III. Underwriters  ",
+      "IV. Insurance agents/brokers "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Girish Saxena‟s insurance claim was denied by insurance company. In case of a denial, what is theoption available to Girish Saxena, apart from the representation to the insurer?  ",
+    "choices": [
+      "I. To approach Government  ",
+      "II. To approach legal authorities  ",
+      "III. To approach insurance agent  ",
+      "IV. Nothing could be done in case of case denial "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "During investigation, of a health insurance claim presented by Rajiv Mehto, insurance company  findsthat instead of Rajiv Mehto, his brother Rajesh Mehto had been admitted to hospital for treatment. The policy of Rajiv Mehto is not a family floater plan. This is an example of ___________fraud.  ",
+    "choices": [
+      "I. Impersonation  ",
+      "II. Fabrication of documents  ",
+      "III. Exaggeration of expenses  ",
+      "IV. Outpatient treatment converted to in-patient / hospitalization "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Under which of the following condition, is domiciliary hospitalization is covered in a health insurancepolicy?  ",
+    "choices": [
+      "I. The condition of the patient is such that he/she can be removed to the Hospital/Nursing Home , but prefer not to 274  ",
+      "II. The patient cannot be removed to Hospital/Nursing Home for lack of accommodation therein  ",
+      "III. The treatment can be carried out only in hospital/Nursing home  ",
+      "IV. Duration of hospitalization is exceeding 24 hours. "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the following codes capture the procedures performed to treat the illness?",
+    "choices": [
+      "I. ICD  ",
+      "II. DCI  ",
+      "III. CPT  ",
+      "IV. PCT "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which one of the following does not represent an insurable risk?",
+    "choices": [
+      "I. Fire  ",
+      "II. Stolen goods  ",
+      "III. Burglary  ",
+      "IV. Loss of goods due to ship capsizing "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following cannot be an element in a valid insurance contract?",
+    "choices": [
+      "I. Offer and acceptance  ",
+      "II. Coercion  ",
+      "III. Consideration  ",
+      "IV. Legality "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Mr. Pinto contracted pneumonia as a result of lying on wet ground after a horse riding accident. Thepneumonia resulted in death of Mr. Pinto. What is the proximate cause of the death?  ",
+    "choices": [
+      "I. Pneumonia  ",
+      "II. Horse  ",
+      "III. Horse riding accident  ",
+      "IV. Bad luck "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Moral hazard means:",
+    "choices": [
+      "I. Dishonesty or character defects in an individual  ",
+      "II. Honesty and values in an individual  ",
+      "III. Risk of religious beliefs  ",
+      "IV. Hazard of the property to be insured "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Risk indicates:",
+    "choices": [
+      "I. Fear of unknown  ",
+      "II. Chance of loss  ",
+      "III. Disturbances at public place  ",
+      "IV. Hazard "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "______________ means spreading one‟s investment in different kinds of assets.",
+    "choices": [
+      "I. Pooling  ",
+      "II. Diversification  ",
+      "III. Gambling 307  ",
+      "IV. Dynamic risk "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "_____________ is not an example of an asset.",
+    "choices": [
+      "I. House  ",
+      "II. Sunlight  ",
+      "III. Plant and machinery  ",
+      "IV. Motor car "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "______________ is not an example of risk.",
+    "choices": [
+      "I. Damage to car due to accident  ",
+      "II. Damage of cargo due to rain water  ",
+      "III. Damage to car tyre due to wear and tear  ",
+      "IV. Damage to property due to fire "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Earthquake is an example of:",
+    "choices": [
+      "I. Catastrophic risk  ",
+      "II. Dynamic risk  ",
+      "III. Marginal risk  ",
+      "IV. Speculative risk "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Select the most appropriate logical equivalence for the statement. Statement: Insurance cannot protectan asset from loss or damage.  ",
+    "choices": [
+      "I. True  ",
+      "II. False  ",
+      "III. Partially true  ",
+      "IV. Not necessarily true "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "__________________ means transfer of all rights and remedies, with respect to the subject matter ofinsurance, from insured to insurer.  ",
+    "choices": [
+      "I. Contribution  ",
+      "II. Subrogation  ",
+      "III. Legal hazard  ",
+      "IV. Risk pooling "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "An example of a fact which need not be disclosed unless asked for is ______________ by the insurer.",
+    "choices": [
+      "I. Age of the insured  ",
+      "II. Presence of fire extinguisher  ",
+      "III. Heart ailment  ",
+      "IV. Other insurance details "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "________________ is a wrong statement made during negotiation of a contract.",
+    "choices": [
+      "I. Misrepresentation  ",
+      "II. Contribution  ",
+      "III. Offer  ",
+      "IV. Representation "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "What is the significance of the principle of contribution?",
+    "choices": [
+      "I. It ensures that the insured also contributes a certain portion of the claim along with the insurer  ",
+      "II. It ensures that all the insured who are a part of the pool, contribute to the claim made by a participant of the pool, in the proportion of the premium paid by them  ",
+      "III. It  ensures  that  multiple  insurers  covering  the  same  subject  matter;  come  together  and contribute the claim amount in proportion to their exposure to the subject matter  ",
+      "IV. It ensures that the premium is contributed by the insured in equal installments over the year. "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "As per guidelines, an insurance company has to process an insurance proposal within __________.",
+    "choices": [
+      "I. 7 days  ",
+      "II. 15 days  ",
+      "III. 30 days  ",
+      "IV. 45 days "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "In case the premium payment is made by cheque, then which of the below statement will hold    true?",
+    "choices": [
+      "I. The risk may be assumed on the date on which the cheque is posted  ",
+      "II. The risk may be assumed on the date on which the cheque is deposited by the insurance company  ",
+      "III. The risk may be assumed on the date on which the cheque is received by the insurance company  ",
+      "IV. The risk may be assumed on the date on which the cheque is issued by the proposer "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below statement is true with regards to cover notes?",
+    "choices": [
+      "I. Cover notes are predominantly used in life insurance  ",
+      "II. Cover notes are predominantly used in all classes of general insurance  ",
+      "III. Cover notes are predominantly used in health insurance  ",
+      "IV. Cover notes are predominantly used in marine and motor classes of general insurance "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which of the below statement is correct with regards to a warranty?",
+    "choices": [
+      "I. A warranty is a condition which is implied without being stated in the policy  ",
+      "II. A warranty is a condition expressly stated in the policy  ",
+      "III. A warranty is a condition expressly stated in the policy and communicated to the insured separately and not as part of the policy document  ",
+      "IV. If a warranty is breached, the claim can still be paid if it is not material to the risk "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the below statement is correct with regards to renewal notice?",
+    "choices": [
+      "I. As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 30 days before the expiry of the policy  ",
+      "II. As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 15 days before the expiry of the policy  ",
+      "III. As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 7 days before the expiry of the policy  ",
+      "IV. As per regulations there is no legal obligation on insurers to send a renewal notice to insured "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "__________ is the maximum limit of liability of insurer under the policy",
+    "choices": [
+      "I. Sum insured  ",
+      "II. Premium  ",
+      "III. Surrender value  ",
+      "IV. Amount of loss  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "_______________ is the consideration or price paid by insured under a contract",
+    "choices": [
+      "I. Claim amount  ",
+      "II. Surrender value  ",
+      "III. Maturity amount  ",
+      "IV. Premium  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "A document which provides an evidence of contract of insurance is called________",
+    "choices": [
+      "I. Policy  ",
+      "II. Cover note  ",
+      "III. Endorsement  ",
+      "IV. Certificate of insurance   "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "The duty of disclosure arises",
+    "choices": [
+      "I. Prior to inception of the policy  ",
+      "II. After inception of the policy  ",
+      "III. Prior to inception and continues during the policy  ",
+      "IV. There is no such duty  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Material fact",
+    "choices": [
+      "I. Is the value of all material covered in a policy  ",
+      "II. Not important for assessing the risk  ",
+      "III. Is important as it influences the decision of the underwriter  ",
+      "IV. Is not important as it has no bearing on the decision of the underwriter "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Fire proposal seeks to know",
+    "choices": [
+      "I. Process of manufacture  ",
+      "II. Details of material stored  ",
+      "III. Construction of building  ",
+      "IV. All the above  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Premium cannot be received",
+    "choices": [
+      "I. In cash  ",
+      "II. By cheque  ",
+      "III. By promissory note  ",
+      "IV. By credit card  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "The certificate of Motor Insurance",
+    "choices": [
+      "I. Is not mandatory  ",
+      "II. Has to be kept with self always  ",
+      "III. Has to be kept in the car always  ",
+      "IV. Has to be kept in the bank locker  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "A warranty",
+    "choices": [
+      "I. Is a condition expressly stated in the policy  ",
+      "II. Has to be complied with  ",
+      "III. Both a and b  ",
+      "IV. None of the above  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Renewal Notice for Motor insurance is issued by",
+    "choices": [
+      "I. The Insured before expiry of the policy  ",
+      "II. The Insurer before expiry of the policy  ",
+      "III. The Insured after expiry of the policy  ",
+      "IV. The Insurer after expiry of the policy "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Identify the two factors that affect insurance ratemaking.",
+    "choices": [
+      "I. Probability and severity of risk  ",
+      "II. Source and nature of risk  ",
+      "III. Source and timing of risk  ",
+      "IV. Nature and impact of risk "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "What is pure premium?",
+    "choices": [
+      "I. Premium sufficiently big enough to pay for losses only  ",
+      "II. Premium applicable to marginal members of the society  ",
+      "III. Premium after loading for administrative costs  ",
+      "IV. Premium derived from the most recent loss experience period "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "What is expected of an agent when she detects a moral hazard?",
+    "choices": [
+      "I. Continue with the insurance as before  ",
+      "II. Report the same to the insurer  ",
+      "III. Ask for a share in the claims  ",
+      "IV. Turn a blind eye "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Suggest an insurance scheme for a doctor to protect him from any claims of negligence against  him.",
+    "choices": [
+      "I. Personal accident insurance  ",
+      "II. Liability insurance  ",
+      "III. Marine hull insurance  ",
+      "IV. Health insurance "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "_____________ decides whether to accept or not to accept the risk.",
+    "choices": [
+      "I. Assured  ",
+      "II. Underwriter  ",
+      "III. Agent  ",
+      "IV. Surveyor "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "_______________ is the price of a given unit of insurance.",
+    "choices": [
+      "I. Rate  ",
+      "II. Premium  ",
+      "III. Sum Assured  ",
+      "IV. Bonus "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "___________ is the maximum amount that an insurance company will indemnify to someone whofiles a claim.  ",
+    "choices": [
+      "I. Sum insured  ",
+      "II. Premium  ",
+      "III. Rider  ",
+      "IV. Benefits "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "______________ is not a source of information for underwriter.",
+    "choices": [
+      "I. Annual accounts of a proposer  ",
+      "II. Pre-acceptance risk survey of the asset  ",
+      "III. Proposal form  ",
+      "IV. Registration certificate of insurer  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Hazards are:",
+    "choices": [
+      "I. Factors that increase the impact of losses  ",
+      "II. Factors that increases the frequency of loss  ",
+      "III. Factors that increase the impact and severity of losses  ",
+      "IV. Factors that decrease the impact and severity of losses  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the following is true? Physical Hazards:",
+    "choices": [
+      "I. Are not important for rate making  ",
+      "II. Cannot be ascertained  ",
+      "III. Can be calculated from the balance sheet  ",
+      "IV. Can be ascertained from information given in a proposal form  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "In motor insurance one of the warranties is:",
+    "choices": [
+      "I. The vehicle should be washed daily  ",
+      "II. The vehicle should not be used for speed testing  ",
+      "III. The vehicle should not be used for carrying luggage for personal use  ",
+      "IV. The vehicle should not be run more than 200 km per day "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "The purpose of deductible clause is to:",
+    "choices": [
+      "I. To avoid claim payment  ",
+      "II. To eliminate payment of small claims  ",
+      "III. To harass the policyholder  ",
+      "IV. To increase the premium  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Installation of sprinkler system in the premises:",
+    "choices": [
+      "I. Increases risk  ",
+      "II. Decreases the risk  ",
+      "III. Neither increases nor decreases risk  ",
+      "IV. Increases risk of hooding  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Insured‟s declared value in motor insurance includes:",
+    "choices": [
+      "I. Registration  ",
+      "II. Manufacturer‟s cost price  ",
+      "III. Manufacturer‟s selling price  ",
+      "IV. Arbitrary price component "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below statement is correct with regards to a householder‟s insurance policy?",
+    "choices": [
+      "I. A named peril policy may be purchased as a less expensive alternative to a comprehensive coverage policy that tends to offer coverage to most perils.  ",
+      "II. A  comprehensive  policy  that  tends  to  offer  coverage  to  most  perils;  may  be  purchased  as  a  less expensive alternative to a named peril policy. 377  ",
+      "III. A named peril policy or comprehensive policy comes at the same price.  ",
+      "IV. With regards to a householder‟s policy, only a named peril policy can be bought and comprehensive "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Under the shopkeeper policy, the insured may opt for an additional „Fixed plate glass and sanitaryfittings‟ cover. This will cover accidental loss of damage to which of the following?  ",
+    "choices": [
+      "I. Fixed plate glass  ",
+      "II. Sanitary fittings  ",
+      "III. Neon signs  ",
+      "IV. All of the above "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Motor insurance should be taken in whose name?",
+    "choices": [
+      "I. In the name of the vehicle owner whose name is registered with Regional Transport Authority  ",
+      "II. If the person who will be driving the vehicle is different from the owner, then in the name of the person who will be driving the vehicle, subject to approval from Regional Transport Authority  ",
+      "III. In  the  name  of  any  family  member  of  the  vehicle  owner,  including  the  vehicle  owner,  subject  to approval from the Regional Transport Authority  ",
+      "IV. If the person who will be driving the vehicle is different from the owner, then primary policy should be "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "In householder’s insurance",
+    "choices": [
+      "I. Gold and silver ornaments are covered  ",
+      "II. Content’s of one’s shop is covered  ",
+      "III. Cars owned by the family are covered  ",
+      "IV. Parcels sent by post are covered during transit.  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "8      Householder’s insurance covers",
+    "choices": [
+      "I. Only the structure of the home  ",
+      "II. Only the Contents of the home  ",
+      "III. Both the structure and contents  ",
+      "IV. Both Structure and contents only when insured is not at home  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "In shop keeper’s insurance, which of the following are not covered?",
+    "choices": [
+      "I. Machinery breakdown  ",
+      "II. Malicious damage  ",
+      "III. Business interruption  ",
+      "IV. Willful destruction by insured  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "In shop keeper’s insurance which of the following are usually not covered",
+    "choices": [
+      "I. Money in till/counter at business premises  ",
+      "II. Money in transit from bank to business premises  ",
+      "III. Money in safe at business premises  ",
+      "IV. Money carried by customer to business premises.  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Shop insurance covers",
+    "choices": [
+      "I. Dishonest acts of employees  ",
+      "II. Dishonest acts of insured  ",
+      "III. Dishonest acts of customers  ",
+      "IV. Dishonest acts of money lenders "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "A fire policy for commercial risks covers the perils of ________",
+    "choices": [
+      "I. Explosion  ",
+      "II. Implosion  ",
+      "III. Both of the above  ",
+      "IV. None of the above "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "A business interruption insurance policy can be taken only in conjunction with ____________.",
+    "choices": [
+      "I. Standard fire and special perils policy  ",
+      "II. Standard fire and marine policy  ",
+      "III. Standard and special perils policy  ",
+      "IV. Standard Engineering and marine policy  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "The premium for burglary policy depends on ______________.",
+    "choices": [
+      "I. Nature of insured policy  ",
+      "II. Moral hazard of the insured himself  ",
+      "III. Construction and location of the premises  ",
+      "IV. All of the above "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which of the below is covered under a money insurance policy?",
+    "choices": [
+      "I. Shortage due to error or omission  ",
+      "II. Loss of cash from one‟s premises due to burglary  ",
+      "III. Loss of money that has been entrusted to other than authorized person  ",
+      "IV. Riot strike and terrorism "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Fidelity guarantee insurance indemnifies ________________.",
+    "choices": [
+      "I. Employers  against  the  financial  loss  suffered  by  them  due  to  fraud  or  dishonesty  of  their employees  ",
+      "II. Employees against the financial loss suffered by them due to fraud or dishonesty of their employer  ",
+      "III. Employees and employers against the financial loss suffered by them due to fraud or dishonesty of third party  ",
+      "IV. Shareholders against the financial loss suffered by them due to fraud or dishonesty of the company "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below can be covered under a bankers indemnity insurance policy?",
+    "choices": [
+      "I. Money securities lost or damaged whilst within the premises due to fire  ",
+      "II. Forgery or alteration of cheques  ",
+      "III. Dishonesty of employees with reference to money  ",
+      "IV. All of the above "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "In case of a Jeweler‟s Block Policy, damage to property insured when it is in transit by registered parcelwill be covered under ____________.  ",
+    "choices": [
+      "I. Section I  ",
+      "II. Section II  ",
+      "III. Section III  ",
+      "IV. Section IV "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Delay in start-up policy is also known as ______________.",
+    "choices": [
+      "I. Machinery Loss of Profits cover  ",
+      "II. Advance Loss of Profits cover  ",
+      "III. Contractors All Risk cover  ",
+      "IV. Contractors Plant & Machinery cover "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the following is not covered under Industrial All Risks insurance?",
+    "choices": [
+      "I. Fire and special perils as per fire insurance practice  ",
+      "II. Larceny  ",
+      "III. Machinery breakdown  ",
+      "IV. Electronic equipment "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which branch of insurance offers cover against war perils?",
+    "choices": [
+      "I. Marine policies  ",
+      "II. Aviation policies  ",
+      "III. Both of the above  ",
+      "IV. None of the above "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Under the Public Liability Insurance Act, 1991, how much is the compensation payable for actualmedical expenses?  ",
+    "choices": [
+      "I. Rs. 6,250  ",
+      "II. Rs, 12,500  ",
+      "III. Rs. 25,000  ",
+      "IV. Rs. 50,000 "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following is the regulator for the insurance industry in India?",
+    "choices": [
+      "I. Insurance Authority of India ",
+      "II. Insurance Regulatory and Development Authority of India  ",
+      "III. Life Insurance Corporation of India  ",
+      "IV. General Insurance Corporation of India   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following is a secondary burden of risk?",
+    "choices": [
+      "I.             Business interruption cost  ",
+      "II.            Goods damaged cost  ",
+      "III.           Setting aside reserves as a provision for meeting potential losses in the future  ",
+      "IV.          Hospitalisation costs as a result of heart attack  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which among the following is a method of risk transfer?",
+    "choices": [
+      "I.               Bank FD  ",
+      "II.              Insurance  ",
+      "III.             Equity shares  ",
+      "IV.            Real estate   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following scenarios warrants insurance?",
+    "choices": [
+      "I.                The sole bread winner of a family might die untimely  ",
+      "II.         A person may lose his wallet  ",
+      "III.         Stock prices may fall drastically  ",
+      "IV.         A house may lose value due to natural wear and tear  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below insurance scheme is run by an insurer and not sponsored by the   Government?",
+    "choices": [
+      "I.                Employees State Insurance Corporation  ",
+      "II.               Crop Insurance Scheme  ",
+      "III.              Jan Arogya  ",
+      "IV.             All of the above    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Risk transfer through risk pooling is called ________.",
+    "choices": [
+      "I.                 Savings  ",
+      "II.                Investments  ",
+      "III.               Insurance  ",
+      "IV.              Risk mitigation    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "The measures to reduce chances of occurrence of risk are known as _____.",
+    "choices": [
+      "I.                Risk retention  ",
+      "II.               Loss prevention  ",
+      "III.              Risk transfer  ",
+      "IV.              Risk avoidance    "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "By transferring risk to insurer, it becomes possible ___________.",
+    "choices": [
+      "I.                To become careless about our assets  ",
+      "II.               To make money from insurance in the event of a loss  ",
+      "III.              To ignore the potential risks facing our assets  ",
+      "IV.              To enjoy peace of mind and plan one’s business more effectively  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Origins of modern insurance business can be traced to __________.",
+    "choices": [
+      "I.                 Bottomry  ",
+      "II.                Lloyds  ",
+      "III.               Rhodes  ",
+      "IV.               Malhotra Committee     "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "In insurance context „risk retention‟ indicates a situation where _____.",
+    "choices": [
+      "I. Possibility of loss or damage is not there  ",
+      "II. Loss producing event has no value  ",
+      "III. Property is covered by insurance  ",
+      "IV. One decides to bear the risk and its effects  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which of the following statement is true?",
+    "choices": [
+      "I. Insurance protects the asset  ",
+      "II.                  Insurance prevents its loss  ",
+      "III.                 Insurance reduces possibilities of loss  ",
+      "IV.                 Insurance pays when there is loss of asset  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Out of 400 houses, each valued at Rs. 20,000, on an average 4 houses get burnt every yearresulting in a combined loss of Rs. 80,000. What should be the annual contribution of each house owner to make good this loss?   ",
+    "choices": [
+      "I.           Rs.100/-  ",
+      "II.              Rs.200/-  ",
+      "III.             Rs.80/-  ",
+      "IV.                 Rs.400/-   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the following statements is true?",
+    "choices": [
+      "I.        Insurance is a method of sharing the losses of a „few‟ by „many‟  ",
+      "II. Insurance is a method of transferring the risk of an individual to another individual  ",
+      "III. Insurance is a method of sharing the losses of a „many‟ by a few  ",
+      "IV. Insurance is a method of transferring the gains of a few to the many  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Why do insurers arrange for survey and inspection of the property before acceptance of a  risk?",
+    "choices": [
+      "I.  To assess the risk for rating purposes  ",
+      "II.          To find out how the insured purchased the property  ",
+      "III.          To find out whether other insurers have also inspected the property  ",
+      "IV.          To find out whether neighbouring property also can be insured  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below option best describes the process of insurance?",
+    "choices": [
+      "I. Sharing the losses of many by a few  ",
+      "II. Sharing the losses of few by many  ",
+      "III. One sharing the losses of few  ",
+      "IV. Sharing of losses through subsidy  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "What is meant by customer lifetime value?",
+    "choices": [
+      "I.           Sum of costs incurred while servicing the customer over his lifetime  ",
+      "II.          Rank given to customer based on business generated  ",
+      "III.  Sum of economic benefits that can be achieved by building a long term relationship with the customer  ",
+      "IV.          Maximum insurance that can be attributed to the customer  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Identify the scenario where a debate on the need for insurance is not required.",
+    "choices": [
+      "I.           Property insurance  ",
+      "II.          Business liability insurance  ",
+      "III.  Motor insurance for third party liability  ",
+      "IV.          Fire insurance    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "As per the Consumer Protection Act, 1986, who cannot be classified as a consumer?",
+    "choices": [
+      "I.           Hires goods / services for personal use  ",
+      "II.  A person who buys goods for resale purpose  ",
+      "III.          Buys goods and services for a consideration and uses them  ",
+      "IV.          Uses the services of another for a consideration  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "What does not go on to make a healthy relationship?",
+    "choices": [
+      "I.           Attraction  ",
+      "II.          Trust  ",
+      "III.          Communication  ",
+      "IV.  Scepticism  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which among the following is not an element of active listening?",
+    "choices": [
+      "I.           Paying good attention  ",
+      "II.  Being extremely judgemental  ",
+      "III.          Empathetic listening  ",
+      "IV.          Responding appropriately          "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following is not a characteristic of ethical behaviour?",
+    "choices": [
+      "I.           Making adequate disclosures to enable the clients to make an informed decision  ",
+      "II.          Maintaining confidentiality of client‟s business and personal information  ",
+      "III.  Placing self-interest ahead of client‟s interests  ",
+      "IV.          Placing client‟s interest ahead of self interest  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "_____________ is not a tangible good.",
+    "choices": [
+      "I.           House  ",
+      "II.  Insurance  ",
+      "III.          Mobile Phone  ",
+      "IV.          A pair of jeans      "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "_______________ is not an indicator of service quality.",
+    "choices": [
+      "I.  Cleverness  ",
+      "II.          Reliability  ",
+      "III.          Empathy  ",
+      "IV.          Responsiveness   "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "In India _______________ insurance is mandatory.",
+    "choices": [
+      "I.  Motor third party liability  ",
+      "II.          Fire insurance for houses  ",
+      "III.          Travel insurance for domestic travel  ",
+      "IV.          Personal accident   "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "One of the methods of reducing insurance cost of an insured is __________",
+    "choices": [
+      "I.           Reinsurance  ",
+      "II.  Deductible  ",
+      "III.          Co-insurance  ",
+      "IV.          Rebate   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "A customer having complaint regarding his insurance policy can approach IRDA through",
+    "choices": [
+      "I.  IGMS  ",
+      "II.          District Consumer Forum  ",
+      "III.          Ombudsman  ",
+      "IV.          IGMS or District Consumer Forum or Ombudsman   "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Consumer Protection Act deals with:",
+    "choices": [
+      "I.           Complaint against insurance companies  ",
+      "II.          Complaint against shopkeepers  ",
+      "III.          Complaint against brand  ",
+      "IV.  Complaint against insurance companies, brand and shopkeepers  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "___________ has jurisdiction to entertain matters where value of goods or services and thecompensation claim is up to 20 lakhs  ",
+    "choices": [
+      "I.           High Court  ",
+      "II.  District Forum  ",
+      "III.          State Commission  ",
+      "IV.          National Commission    "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "In customer relationship the first impression is created:",
+    "choices": [
+      "I.           By being confident  ",
+      "II.          By being on time  ",
+      "III.          By showing interest  ",
+      "IV.  By being on time, showing interest and being confident  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Select the correct statement:",
+    "choices": [
+      "I.           Ethical behaviour is impossible while selling insurance  ",
+      "II.          Ethical behaviour is not necessary for insurance agents  ",
+      "III.  Ethical behaviour helps in developing trust between the agent and the insurer  ",
+      "IV.          Ethical behaviour is expected from the top management only  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Active Listening involves:",
+    "choices": [
+      "I.           Paying attention to the speaker  ",
+      "II.          Giving an occasional nod and smile  ",
+      "III.          Providing feedback  ",
+      "IV.  Paying attention to the speaker, giving an occasional nod and smile and providing feedback  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "The ______________ has jurisdiction to entertain complaints, where value of the goods orservices and the compensation claimed is up to Rs.20 lakhs.  ",
+    "choices": [
+      "I.  District Forum  ",
+      "II.          State Commission  ",
+      "III.          Zilla Parishad  ",
+      "IV.          National Commission    "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Expand the term IGMS.",
+    "choices": [
+      "I.           Insurance General Management System  ",
+      "II.          Indian General Management System  ",
+      "III.  Integrated Grievance Management System  ",
+      "IV.          Intelligent Grievance Management System        "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below consumer grievance redressal agencies would handle consumer disputesamounting between Rs. 20 lakhs and Rs. 100 lakhs?  ",
+    "choices": [
+      "I.           District Forum  ",
+      "II.  State Commission  ",
+      "III.          National Commission  ",
+      "IV.          Zilla Parishad   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following cannot form the basis for a valid consumer complaint?",
+    "choices": [
+      "I.           Shopkeeper charging a price above the MRP for a product  ",
+      "II.  Shopkeeper not advising the customer on the best product in a category  ",
+      "III.          Allergy warning not provided on a drug bottle  ",
+      "IV.          Faulty products   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the below will be the most appropriate option for a customer to lodge an insurance policyrelated complaint?  ",
+    "choices": [
+      "I.           Police  ",
+      "II.          Supreme Court  ",
+      "III.  Insurance Ombudsman  ",
+      "IV.          District Court    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below statement is correct with regards to the territorial jurisdiction of the  InsuranceOmbudsman?  ",
+    "choices": [
+      "I.           Insurance Ombudsman has National jurisdiction  ",
+      "II.          Insurance Ombudsman has State jurisdiction  ",
+      "III.          Insurance Ombudsman has District jurisdiction  ",
+      "IV.  Insurance Ombudsman operates only within the specified territorial limits  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "How is the complaint to be launched with an insurance ombudsman?",
+    "choices": [
+      "I.  The complaint is to be made in writing  ",
+      "II.          The complaint is to be made orally over the phone  ",
+      "III.          The complaint is to be made orally in a face to face manner  ",
+      "IV.          The complaint is to be made through newspaper advertisement  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "What is the time limit for approaching an Insurance Ombudsman?",
+    "choices": [
+      "I.           Within two years of rejection of the complaint by the insurer  ",
+      "II.          Within three years of rejection of the complaint by the insurer  ",
+      "III.  Within one year of rejection of the complaint by the insurer  ",
+      "IV.          Within one month of rejection of the complaint by the insurer  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which among the following is not a pre-requisite for launching a complaint with the Ombudsman?",
+    "choices": [
+      "I.           The complaint must be by an individual on a „Personal Lines‟ insurance  ",
+      "II.          The complaint must be lodged within 1 year of the insurer rejecting the complaint  ",
+      "III.  Complainant has to approach a consumer forum prior to the Ombudsman  ",
+      "IV.          The total relief sought must be within an amount of Rs.20 lakhs.  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Are there any fee / charges that need to be paid for lodging the complaint with the Ombudsman?",
+    "choices": [
+      "I.           A fee of Rs 100 needs to be paid  ",
+      "II.  No fee or charges need to be paid  ",
+      "III.          20% of the relief sought must be paid as fee  ",
+      "IV.          10% of the relief sought must be paid as fee   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Can a complaint be launched against a private insurer?",
+    "choices": [
+      "I.           Complaints can be launched against public insurers only  ",
+      "II.  Yes, complaint can be launched against private insurers  ",
+      "III.          Complaint can be launched against private insurers only in the Life Sector  ",
+      "IV.          Complaint can be launched against private insurers only in the Non-Life Sector  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following is an example of coercion?",
+    "choices": [
+      "I.           Ramesh signs a contract without having knowledge of the fine print  ",
+      "II.  Ramesh threatens to kill Mahesh if he does not sign the contract  ",
+      "III.          Ramesh uses his professional standing to get Mahesh to sign a contract  ",
+      "IV.          Ramesh provides false information to get Mahesh to sign a contract  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which among the following options cannot be insured?",
+    "choices": [
+      "I.           House  ",
+      "II.          Spouse  ",
+      "III.  Friend  ",
+      "IV.          Parents   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which element of a valid contract deals with premium?",
+    "choices": [
+      "I.           Offer and acceptance  ",
+      "II.  Consideration  ",
+      "III.          Free consent  ",
+      "IV.          Capacity of parties to contract           "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "_____________ relates to inaccurate statements, which are made without any fraudulentintention.  ",
+    "choices": [
+      "I.  Misrepresentation  ",
+      "II.          Contribution  ",
+      "III.          Offer  ",
+      "IV.          Representation    "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "________________ involves pressure applied through criminal means.",
+    "choices": [
+      "I.           Fraud  ",
+      "II.          Undue influence  ",
+      "III.  Coercion  ",
+      "IV.          Mistake    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which among the following is true regarding life insurance contracts?",
+    "choices": [
+      "I.           They are verbal contracts not legally enforceable  ",
+      "II.          They are verbal which are legally enforceable  ",
+      "III.  They are contracts between two parties (insurer and insured) as per requirements of Indian Contract Act, 1872  ",
+      "IV.          They are similar to wager contracts   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below is not a valid consideration for a contract?",
+    "choices": [
+      "I.           Money  ",
+      "II.          Property  ",
+      "III.  Bribe  ",
+      "IV.          Jewellery   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below party is not eligible to enter into a life insurance contract?",
+    "choices": [
+      "I.           Business owner  ",
+      "II.  Minor  ",
+      "III.          House wife  ",
+      "IV.          Government employee   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the below action showcases the principle of “Uberrima Fides”?",
+    "choices": [
+      "I.           Lying about known medical conditions on an insurance proposal form  ",
+      "II.          Not revealing known material facts on an insurance proposal form  ",
+      "III.  Disclosing known material facts on an insurance proposal form  ",
+      "IV.          Paying premium on time   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below is not correct with regards to insurable interest?",
+    "choices": [
+      "I.           Father taking out insurance policy on his son  ",
+      "II.          Spouses taking out insurance on one another  ",
+      "III.  Friends taking out insurance on one another  ",
+      "IV.          Employer taking out insurance on employees      "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "When is it essential for insurable interest to be present in case of life insurance?",
+    "choices": [
+      "I.           At the time of taking out insurance  ",
+      "II.          At the time of claim  ",
+      "III.  Insurable interest is not required in case of life insurance  ",
+      "IV.          Either at time of policy purchase or at the time of claim  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Find out the proximate cause for death in the following scenario?Ajay falls off a horse and breaks his back. He lies there in a pool of water and contracts pneumonia. He is admitted to the hospital and dies because of pneumonia.  ",
+    "choices": [
+      "I.           Pneumonia  ",
+      "II.          Broken back  ",
+      "III.  Falling off a horse  ",
+      "IV.          Surgery   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "As per guidelines, an insurance company has to process an insurance proposal within__________.  ",
+    "choices": [
+      "I.           7 days  ",
+      "II.  15 days  ",
+      "III.          30 days  ",
+      "IV.          45 days   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "In case the premium payment is made by cheque, then which of the below statement will holdtrue?  ",
+    "choices": [
+      "I.  The risk may be assumed on the date on which the cheque is posted  ",
+      "II.          The risk may be assumed on the date on which the cheque is deposited by the insurance company  ",
+      "III.          The risk may be assumed on the date on which the cheque is received by the insurance company  ",
+      "IV.          The risk may be assumed on the date on which the cheque is issued by the proposer  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below statement is correct with regards to a warranty?",
+    "choices": [
+      "I.           A warranty is a condition which is implied without being stated in the policy  ",
+      "II.  A warranty is a condition expressly stated in the policy  ",
+      "III.          A warranty is a condition expressly stated in the policy and communicated to the insured separately and not as part of the policy document  ",
+      "IV.          If a warranty is breached, the claim can still be paid if it is not material to the risk  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "If certain terms and conditions of the policy need to be modified at the time of issuance, it is doneby setting out the amendments through __________.  ",
+    "choices": [
+      "I.           Warranty  ",
+      "II.  Endorsement  ",
+      "III.          Alteration  ",
+      "IV.          Modifications are not possible       "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the below statement is correct with regards to renewal notice?",
+    "choices": [
+      "I.           As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 30 days before the expiry of the policy  ",
+      "II.          As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 15 days before the expiry of the policy  ",
+      "III.          As per regulations there is a legal obligation on insurers to send a renewal notice to insured, 7 days before the expiry of the policy  ",
+      "IV.  As per regulations there is no legal obligation on insurers to send a renewal notice to insured "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Though the duration of cover for pre-hospitalization expenses would vary from insurer to insurerand is defined in the policy, the most common cover is for ________ pre-hospitalization.  ",
+    "choices": [
+      "I.           Fifteen days  ",
+      "II.  Thirty days  ",
+      "III.          Forty Five days  ",
+      "IV.          Sixty days   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "As per IRDA guidelines, a ________ grace period is allowed for renewal of individual healthpolicies.  ",
+    "choices": [
+      "I.           Fifteen days  ",
+      "II.  Thirty days  ",
+      "III.          Forty Five days  ",
+      "IV.          Sixty days     "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which of the below statement is correct with regards to a hospitalization expenses policy?",
+    "choices": [
+      "I.           Only hospitalization expenses are covered  ",
+      "II.  Hospitalization as well as pre and post hospitalization expenses are covered  ",
+      "III.          Hospitalization as well as pre and post hospitalization expenses are covered and a lumpsum amount is paid to the family members in the event of insured‟s death  ",
+      "IV.          Hospitalization expenses are covered from the first year and pre and post hospitalization expenses "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Identify which of the below statement is correct?",
+    "choices": [
+      "I.  Health insurance deals with morbidity  ",
+      "II.          Health insurance deals with mortality  ",
+      "III.          Health insurance deals with morbidity as well as mortality  ",
+      "IV.          Health insurance neither deals with morbidity or mortality  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the below statement is correct with regards to cashless service provided in healthinsurance?  ",
+    "choices": [
+      "I.           It is an environment friendly go-green initiative started by insurance companies to promote electronic payments so that circulation of physical cash notes can be reduced and trees can be ",
+      "saved.  ",
+      "II.          Service is provided free of cost to the insured and no cash is to be paid as the payment is made by the Government to the insurance company under a special scheme  ",
+      "III.          All payments made by insured have to be made only through internet banking or cards as cash is "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Identify the correct full form of PPN with regards to hospitals in health insurance.",
+    "choices": [
+      "I.           Public Preferred Network  ",
+      "II.  Preferred Provider Network  ",
+      "III.          Public Private Network  ",
+      "IV.          Provider Preferential Network   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": ".          Identify which of the below statement is incorrect?",
+    "choices": [
+      "I.           An employer can take a group policy for his employees  ",
+      "II.          A bank can take a group policy for its customers  ",
+      "III.  A shopkeeper can take a group policy for its customers  ",
+      "IV.          A group policy taken by the employer for his employees can be extended to include the family "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which of the below statement is true with regards to cover notes?",
+    "choices": [
+      "I.           Cover notes are predominantly used in life insurance  ",
+      "II.          Cover notes are predominantly used in all classes of general insurance  ",
+      "III.          Cover notes are predominantly used in health insurance  ",
+      "IV.  Cover notes are predominantly used in marine and motor classes of general insurance  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "In Engineering insurance CAR stands for :",
+    "choices": [
+      "I.            Motor Car  ",
+      "II.   Contractors All Risks  ",
+      "III.          Company’s All Risks  ",
+      "IV.          Companies All Requirements    "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "An employer insures himself from dishonest act of his employees by _________",
+    "choices": [
+      "I.            Employees compensation policy  ",
+      "II.           Public Liability Insurance policy  ",
+      "III.  Fidelity Guarantee Insurance policy  ",
+      "IV.          Declaration policy.        "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "_________ refers to the body of the ship.",
+    "choices": [
+      "I.    Hull  ",
+      "II.           Cargo  ",
+      "III.          Piracy  ",
+      "IV.          Jettison    "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Policy which covers loss or damage to aircraft is ______________.",
+    "choices": [
+      "I.            Statutory liability  ",
+      "II.           Property insurance  ",
+      "III.          Aviation insurance  ",
+      "IV.  Money insurance  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Fire Insurance Policy does not cover damage to property even as add-on cover dueto___________.  ",
+    "choices": [
+      "I.            Floods  ",
+      "II.           Earthquake  ",
+      "III.          Fire  ",
+      "IV.  Bombing due to war "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Consequential Loss (Fire Policy) covers:",
+    "choices": [
+      "I.    Loss of profit due to damage to factory  ",
+      "II.           Loss of Goodwill  ",
+      "III.             Material wear & tear in machinery  ",
+      "IV.                  Losses due to foreign exchange fluctuations  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Premium in Burglary depends on:",
+    "choices": [
+      "I.            Security measures  ",
+      "II.           Location of Premises  ",
+      "III.          Nature of property  ",
+      "IV.  All of the above  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Contractor’s All Risk Policy is a variation of:",
+    "choices": [
+      "I.            Fire Insurance  ",
+      "II.           Life Insurance  ",
+      "III.  Engineering Insurance  ",
+      "IV.          Marine Insurance         "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Employee’s Compensation Policy is a type of -------",
+    "choices": [
+      "I.    Liability Insurance  ",
+      "II.           Fire Insurance  ",
+      "III.          Marine Cargo Insurance  ",
+      "IV.          Engineering Insurance   "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Money Insurance Policy covers:",
+    "choices": [
+      "I.    Cash in hand  ",
+      "II.           Money invested in Mutual Fund  ",
+      "III.          Money lying in Saving Bank  ",
+      "IV.          Money deposited with post office.     "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Which of the following activities would not be categorised under professional settlement ofclaims?  ",
+    "choices": [
+      "I. Seeking information relating to the cause of the loss  ",
+      "II. Approaching the claim with a prejudice  ",
+      "III. Ascertaining whether the loss was a result of an insured peril  ",
+      "IV. Quantifying the amount payable under the claim  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Raj is involved in a car accident. His car is insured under a motor insurance policy. Whichamong the following is the most appropriate thing for Raj to do?  ",
+    "choices": [
+      "I.    Notify the insurer of the loss as soon as reasonably possible  ",
+      "II.           Notify the insurer at the time of insurance renewal  ",
+      "III.          Damage the car further so as to receive a bigger compensation ",
+      "IV.          Ignore the damage  "
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Compare claims investigation and claims assessment:",
+    "choices": [
+      "I.            Both claims investigation and assessment are the same thing  ",
+      "II.   Investigation tries to  determine  the  validity  of  the  claim  whereas assessment is more concerned with the cause and extent of the loss  ",
+      "III.          Assessment   tries   to   determine   the   validity   of   the   claim   whereas  investigation is more concerned with the cause and extent of the loss  ",
+      "IV.          Investigation is done before the claim is paid and assessment is done after  "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Who is the Licensing Authority for surveyors?",
+    "choices": [
+      "I.            Surveyor Association of India  ",
+      "II.           Surveyor Regulatory and Development Authority  ",
+      "III.  Insurance Regulatory and Development Authority of India  ",
+      "IV.          Government of India    "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which  among the following  documents  is most likely to be requested  while  examining acyclone damage claim?  ",
+    "choices": [
+      "I.            Coroner’s report  ",
+      "II.           Report from Fire Brigade  ",
+      "III.          Police report  ",
+      "IV.  Report from Meteorological Department  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Under which principle can the insurer assume the rights of the insured in order to recoverfrom a third party the loss paid under a policy?  ",
+    "choices": [
+      "I.            Contribution  ",
+      "II.           Discharge  ",
+      "III.  Subrogation  ",
+      "IV.          Indemnity  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "If the insurer decides that a certain loss is not payable because it is not covered under the policythen who decides on such matters?  ",
+    "choices": [
+      "I.            Insurer‟s decision is final  ",
+      "II.           Umpire  ",
+      "III.          Arbitrator  ",
+      "IV.  Court of Law  "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Intimation of loss is to be made:",
+    "choices": [
+      "I.            at   the exact time of the loss  ",
+      "II.              after 15 days  ",
+      "III.               as soon as reasonably possible  ",
+      "IV.               any time after the loss   "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Investigation of loss is done by:",
+    "choices": [
+      "I.             unlicensed surveyor  ",
+      "II.   licensed and qualified surveyor  ",
+      "III.           insured‟s representative  ",
+      "IV.          any person with a degree in engineering    "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "For personal accident claims, report of_----------is necessary.",
+    "choices": [
+      "I.             Surveyor  ",
+      "II.   Doctor  ",
+      "III.           Police  ",
+      "IV.          Coroner   "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Independent surveyors are required for claims equal to or above-------- as per the InsuranceAct.  ",
+    "choices": [
+      "I. Rs. 40,000  ",
+      "II. Rs. 15,000  ",
+      "III. Rs. 20,000  ",
+      "IV. Rs. 25,000  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Claims  assessed  outside  the  country  in  case  of  travel  insurance  policies  are assessed by:",
+    "choices": [
+      "I.             Indian surveyors  ",
+      "II.            Local surveyors in the country of loss ",
+      "III.           Insurer‟s own employees  ",
+      "IV.  Claims settling agents named in the policy "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "In case of a fire claim, a report from the fire brigade:",
+    "choices": [
+      "I.             is not required  ",
+      "II.            is optional for the insured  ",
+      "III.  is necessary  ",
+      "IV.           is part of the police report  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "What is TAT?",
+    "choices": [
+      "I. Time and Turn  ",
+      "II. Till a Time  ",
+      "III. Time and Tide  ",
+      "IV. Turnaround Time   "
+    ],
+    "answer": 3
+  },
+  {
+    "text": "On payment of loss, salvage belongs to:",
+    "choices": [
+      "I.             Surveyors  ",
+      "II.            Insured  ",
+      "III.  Insurer  ",
+      "IV.           Local authorities  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Arbitration is a claim settlement process done ----______________.",
+    "choices": [
+      "I.             in the court of law  ",
+      "II.            by a group of surveyors  ",
+      "III.  by arbitrator(s) chosen by the parties involved  ",
+      "IV.           arbitrarily by the insurance company’s employees  "
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Insurers under right of subrogation are allowed to recover the loss paid from:",
+    "choices": [
+      "I.             Shipping companies only  ",
+      "II.            Railways and road carriers only  ",
+      "III.           Airlines and Port Trusts only  ",
+      "IV.  Shipping  companies  and  railway  and  road  carriers  and  airlines  and  port "
+    ],
+    "answer": 3
+  }
+]
